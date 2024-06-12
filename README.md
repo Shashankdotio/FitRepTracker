@@ -18,3 +18,5 @@ import the dependencies correctly:
 >mp_drawing = mp.solutions.drawing_utils
 
 >mp_pose = mp.solutions.pose
+
+Extract and run main.py in your IDE
