@@ -8,7 +8,7 @@ The project focuses on recognizing the specific motion involved in performing bi
 install the necessary dependencies:
 >pip install mediapipe opencv-python
 
-import the dependencies correctly:
+import the dependencies:
 >import cv2
 
 >import mediapipe as mp
